@@ -1,5 +1,4 @@
 /******/ (() => { // webpackBootstrap
-<<<<<<< HEAD
 /******/ 	"use strict";
 /******/ 	var __webpack_modules__ = ({
 
@@ -735,13 +734,6 @@ function copyOnClick(p) {
   navigator.clipboard.writeText(p);
   alert("CPF Copiado para a área de transferência");
 }
-=======
-var __webpack_exports__ = {};
-/*!**********************!*\
-  !*** ./src/index.js ***!
-  \**********************/
-alert("Hello world");
->>>>>>> parent of 5eb9913 (create `module` model)
 /******/ })()
 ;
 //# sourceMappingURL=bundle.js.map
